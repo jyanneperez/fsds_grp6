@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+jinja2
+python-multipart
+joblib
+scikit-learn
+xgboost
+duckduckgo-search
+scipy
+sqlalchemy
+psycopg2-binary
+tldextract
+XlsxWriter
+lightgbm
